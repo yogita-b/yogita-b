@@ -3,7 +3,7 @@
 -  I’m interested in everything tech.
 -  I’m currently learning C++
 -  I’m looking to collaborate on DSA of C++
--  How to reach me ? Via Instagram or Mail.
+-  How to reach me ? Via Instagram (@_yogita.b).
 
 <!---
 yogita-b/yogita-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
