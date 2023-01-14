@@ -1,6 +1,6 @@
 -  THIS IS MY FIRST REPOSITORY.  
 -  Hi, My name is Yogita Bhavanishankar.
--  I'm 18 years old (2022) and pursuing Computer Science Engineering currently. 
+-  I'm 18 years old (2022) and pursuing Computer Science Engineering.
 -  I’m interested in everything tech.
 -  I’m currently learning C++
 -  I’m looking to collaborate on DSA of C++
