@@ -1,10 +1,6 @@
 -  THIS IS MY FIRST REPOSITORY.  
 -  Hi, My name is Yogita Bhavanishankar.
--  I'm 18 years old (2022) and pursuing Computer Science Engineering.
--  I’m interested in everything tech.
--  I’m currently learning C++
--  I’m looking to collaborate on DSA of C++
--  How to reach me ? Via Instagram (@_yogita.b).
+- Just an average Computer Science student.
 
 <!---
 yogita-b/yogita-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
